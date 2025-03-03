@@ -1,0 +1,22 @@
+baseURL = "https://heatherheine.github.io/"
+languageCode = "en-us"
+title = "Dr. Heather Heine | Biotech Entrepreneur & Innovator"
+theme = "typo"
+
+# GitHub Pages can publish from /docs folder
+publishDir = "docs"
+
+[params]
+  # Professional headshot/photo (path relative to static folder)
+  # avatar = "/images/heather-heine.jpg"
+  
+  # Brief professional tagline
+  subtitle = "MD/PhD Biotechnologist & Entrepreneur"
+  
+  # Social media links
+  [[params.social]]
+    name = "x"
+    url = "https://x.com/heatherheine"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/heatherheine"
