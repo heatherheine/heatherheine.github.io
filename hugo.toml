@@ -7,12 +7,12 @@ theme = "typo"
 publishDir = "docs"
 
 [params]
-  # Professional headshot/photo (path relative to static folder)
-  # avatar = "/images/heather-heine.jpg"
-  
   # Brief professional tagline
   subtitle = "MD/PhD Biotechnologist & Entrepreneur"
   
+  # Force dark mode (black background)
+  theme = "dark"
+
   # Social media links
   [[params.social]]
     name = "x"
@@ -20,3 +20,8 @@ publishDir = "docs"
   [[params.social]]
     name = "linkedin"
     url = "https://linkedin.com/in/heatherheine"
+
+# Main menu configuration
+  [[params.menu]]
+    name = "accomplishments"
+    url  = "/accomplishments"
