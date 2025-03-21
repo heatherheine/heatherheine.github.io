@@ -16,7 +16,7 @@ publishDir = "docs"
   # Social media links
   [[params.social]]
     name = "x"
-    url = "https://x.com/heatherheine"
+    url = "https://x.com/SeraAureliaX"
   [[params.social]]
     name = "linkedin"
     url = "https://linkedin.com/in/heatherheine"
