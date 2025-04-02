@@ -17,9 +17,6 @@ publishDir = "docs"
   [[params.social]]
     name = "x"
     url = "https://x.com/heatherheine"
-  [[params.social]]
-    name = "linkedin"
-    url = "https://linkedin.com/in/heatherheine"
 
 # Main menu configuration
   [[params.menu]]
