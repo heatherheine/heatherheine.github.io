@@ -2,7 +2,6 @@ baseURL = "https://heatherheine.github.io/"
 languageCode = "en-us"
 title = "Heather Heine | Biotech Entrepreneur & Innovator"
 theme = "typo"
-
 # GitHub Pages can publish from /docs folder
 publishDir = "docs"
 
@@ -12,7 +11,7 @@ publishDir = "docs"
   
   # Force dark mode (black background)
   theme = "dark"
-
+  
   # Social media links
   [[params.social]]
     name = "x"
@@ -22,8 +21,9 @@ publishDir = "docs"
   [[params.menu]]
     name = "about"
     url  = "/about"
-
   [[params.menu]]
     name = "accomplishments"
     url  = "/accomplishments"
-
+  [[params.menu]]
+    name = "timeline"
+    url  = "/timeline"
