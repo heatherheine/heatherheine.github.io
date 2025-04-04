@@ -2,9 +2,8 @@ baseURL = "https://heatherheine.github.io/"
 languageCode = "en-us"
 title = "Heather Heine | Biotech Entrepreneur & Innovator"
 theme = "typo"
-# GitHub Pages can publish from /docs folder
-publishDir = "docs"
-
+# Use default public directory for Cloudflare Pages
+publishDir = "public"
 [params]
   # Brief professional tagline
   subtitle = "MD/PhD Biotechnologist & Entrepreneur"
@@ -16,7 +15,6 @@ publishDir = "docs"
   [[params.social]]
     name = "x"
     url = "https://x.com/heatherheine"
-
 # Main menu configuration
   [[params.menu]]
     name = "about"
