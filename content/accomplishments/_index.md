@@ -32,7 +32,7 @@ draft: false
   * **Significance:** Effective integration of engineered tissues with host tissues requires prior facilitation of angiogenesis, as vascular networks are essential for nutrient delivery and structural stability in constructs exceeding a few millimeters, underscoring my expertise in innovating and quantitatively analyzing complex biological systems.
   * **Research Efficiency:** The development of this model provides a powerful tool to monitor these changes in live mice, significantly increasing research efficiency in long-term studies.
 
-## Advanced Training & Leadership:
+## Advanced Training and Leadership:
 
 * **MD/PhD at UBC:** Selected as one of only two students annually for UBC's highly competitive MD/PhD program, successfully managing demanding academics alongside leadership initiatives.
 * **Entrepreneurial Leadership:** At age 25, led the fundraising, construction, and launch of UBC's first student-owned and operated café and coffee roaster, serving thousands and enhancing campus community engagement.
